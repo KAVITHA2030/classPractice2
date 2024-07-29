@@ -1,3 +1,3 @@
 # classPractice2
-Kavitha Jeeru
+Kavitha Jeeru:
 class Github
